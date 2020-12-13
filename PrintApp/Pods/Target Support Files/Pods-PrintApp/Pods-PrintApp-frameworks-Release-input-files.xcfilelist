@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-PrintApp/Pods-PrintApp-frameworks.sh
+${BUILT_PRODUCTS_DIR}/PrintAPI/PrintAPI.framework
+${BUILT_PRODUCTS_DIR}/PrintSecond/PrintSecond.framework

@@ -1,0 +1,21 @@
+PODS:
+  - PrintAPI (1.0.0):
+    - PrintSecond (~> 0.0.1)
+  - PrintSecond (0.0.1)
+
+DEPENDENCIES:
+  - PrintAPI (~> 1.0.0)
+
+SPEC REPOS:
+  https://github.com/nataliamurauyova/PrintAPIPod.git:
+    - PrintAPI
+  https://github.com/nataliamurauyova/PrintSecondPod.git:
+    - PrintSecond
+
+SPEC CHECKSUMS:
+  PrintAPI: 4cbebd4f1fef2c04021e342a171fe567ac3dad38
+  PrintSecond: a0ff8c888197c438495ee328f816b033c021621c
+
+PODFILE CHECKSUM: ab122c29245c7aff8ecf7ff33fdf24565fd49c35
+
+COCOAPODS: 1.9.1

@@ -1,0 +1,6 @@
+framework module PrintSecond {
+  umbrella header "PrintSecond-umbrella.h"
+
+  export *
+  module * { export * }
+}

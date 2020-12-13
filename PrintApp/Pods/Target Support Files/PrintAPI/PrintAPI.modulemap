@@ -1,0 +1,6 @@
+framework module PrintAPI {
+  umbrella header "PrintAPI-umbrella.h"
+
+  export *
+  module * { export * }
+}

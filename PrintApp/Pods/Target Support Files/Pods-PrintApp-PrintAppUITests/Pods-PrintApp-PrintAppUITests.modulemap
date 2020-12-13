@@ -1,0 +1,6 @@
+framework module Pods_PrintApp_PrintAppUITests {
+  umbrella header "Pods-PrintApp-PrintAppUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

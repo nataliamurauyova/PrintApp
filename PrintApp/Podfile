@@ -1,0 +1,22 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+source 'https://github.com/nataliamurauyova/PrintAPIPod.git'
+source 'https://github.com/nataliamurauyova/PrintSecondPod.git'
+source 'https://github.com/CocoaPods/Specs.git'
+
+target 'PrintApp' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  pod 'PrintAPI', '~> 1.0.0'
+
+  target 'PrintAppTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'PrintAppUITests' do
+    # Pods for testing
+  end
+
+end
